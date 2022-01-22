@@ -75,7 +75,7 @@ header .navbar-expand-lg .navbar-nav .nav-link {
 /*Hero Banner*/
 
 .hero-banner{
-	background: url("../images/eHospital.gif") no-repeat;
+	background: url("../images/banner-bg.gif") no-repeat;
 	background-size: cover;
 	padding: 200px 0px;
 	min-height: 500px;
