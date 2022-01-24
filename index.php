@@ -84,9 +84,9 @@
 						
 						  <a href="datasearch/divider.php"  class="btn btn-white">Search medical data</a><br><br>
 
-					      <br><h2 class="text-white">Stay Safe, Stay healthy.</h2>
-						  <h2 class="text-white"> We Provide Best Medical Services.</h2>
-						  <p class="text-white">Now you can access to the patients medical details any time and any place in the world.</p>
+					      <br><h2 class="text-white">Your Cure Is Our Happiness.</h2>
+						  <h2 class="text-white"> Stay Safe. Stay Healthy.</h2>
+						  <p class="text-white">Find your and Your family members' all medical records from birth to death from us.</p>
 						  
 						  <a href="user/patient/patientRegistrationForum.php"  class="btn btn-white">Register as a patient</a>
 						  <a href="user/doctor/doctorRegistrationForum.php"  class="btn btn-white">Register as a doctor</a>
@@ -108,25 +108,25 @@
 				 <div class="col-md-4">
 				      <div class="features-box bg1">
 					      <img src="images/calendar.png" alt="">
-						  <h3>24/7 Services</h3>
-						  <p>Now you can access the  medical details from birth to death in any time and any place via M CLOUD.</p>
+						  <h3>24/7*365</h3>
+						  <p>Medical records can be viewed any time, any day from any where in our service you.</p>
 					 </div>
 				 </div>
 				 
 				 
 				  <div class="col-md-4">
 				      <div class="features-box bg2">
-					      <img src="images/staff.png" alt="">
-						  <h3>Doctors at work Staff</h3>
-						  <p>There are more than 120 service of the qualified and experienced professional doctors in MCLOUD organization.</p>
+					      <img src="images/people.png" alt="">
+						  <h3>Happy Customers</h3>
+						  <p>More than a thousand Patients are currently enrolling with us and we hope it will improve in the future.</p>
 					 </div>
 				 </div>
 				 
 				   <div class="col-md-4">
 				      <div class="features-box bg3">
-					      <img src="images/happy.png" alt="">
-						  <h3>Happy patients</h3>
-						  <p>There are 1000+ patients are registered in  MCLOUD organization, and they can  access their medical data quickly. </p>
+					      <img src="images/staff.png" alt="">
+						  <h3>Experienced Specialists</h3>
+						  <p>Many experienced specialists in the field ara availing our service. </p>
 					 </div>
 				 </div>
 				 
@@ -145,15 +145,14 @@
 			      
 				 <div class="col-md-6">
 				        <div class="about-media">
-					      <img src="images/about.gif" alt="" >
+					      <img src="images/about.jpg" alt="" >
 					 </div>
 				  </div>
 				  
 				  <div class="col-md-6">
 				       <div  class="about-info">
 						   <h3>About Us</h3>
-					        <p class="lead">MCLOUD is a patient's medical data storage system and, that brings all patients in Sri Lanka to the same platform and gives them 100% accurate medication.  
-
+					        <p class="lead">Store Your Medical History to help your doctor.
 </p>
 						   
 						   <p style="font-size:20px;">A health information system enables health care organizations to collect, store, manage, analyze, and optimize patient treatment histories and other key data. </p>
